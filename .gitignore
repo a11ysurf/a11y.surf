@@ -2,3 +2,5 @@ node_modules/
 package-lock.json
 yarn.lock
 _site/
+# Local Netlify folder
+.netlify
