@@ -1,0 +1,8 @@
+{
+  "name": "a11y.surf",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "repository": "https://github.com/a11ysurf/a11y.surf.git",
+  "author": "Ben Myers <ben@benmyers.dev>",
+  "license": "MIT"
+}
