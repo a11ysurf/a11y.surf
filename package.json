@@ -4,5 +4,12 @@
   "main": ".eleventy.js",
   "repository": "https://github.com/a11ysurf/a11y.surf.git",
   "author": "Ben Myers <ben@benmyers.dev>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+	"build": "eleventy",
+	"dev": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
 }
