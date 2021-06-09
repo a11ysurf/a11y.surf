@@ -24,6 +24,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "wmharrison",
+      "name": "William Harrison",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76443410?v=4",
+      "profile": "https://github.com/wmharrison",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
