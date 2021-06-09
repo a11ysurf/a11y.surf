@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Cerchie",
+      "name": "Lucia Cerchie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54046179?v=4",
+      "profile": "https://luciacerchie.dev/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "a11y.surf",
+  "projectOwner": "a11ysurf",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
