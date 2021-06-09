@@ -15,6 +15,15 @@
         "content",
         "doc"
       ]
+    },
+    {
+      "login": "Cerchie",
+      "name": "Lucia Cerchie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54046179?v=4",
+      "profile": "https://luciacerchie.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
