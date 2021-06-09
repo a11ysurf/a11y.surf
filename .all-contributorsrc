@@ -6,6 +6,17 @@
   "commit": false,
   "contributors": [
     {
+      "login": "BenDMyers",
+      "name": "Ben Myers",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18060369?v=4",
+      "profile": "http://benmyers.dev",
+      "contributions": [
+        "code",
+        "content",
+        "doc"
+      ]
+    },
+    {
       "login": "Cerchie",
       "name": "Lucia Cerchie",
       "avatar_url": "https://avatars.githubusercontent.com/u/54046179?v=4",
