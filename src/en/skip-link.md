@@ -23,9 +23,9 @@ Here's an example of a skip link:
 
 A few important points about the skip link example:
 
-* The skip link is the first element inside of the `<body>` tag, which would make it the first element that a user would 'select' when hitting tab.
-* Not shown, but important - It is best practice to 'hide' the skip link from sighted users, but 'show' it to users of assistive technology. This can be achieved with CSS.
-* The skip link should include descriptive text as to what it will do when clicked.
+- The skip link is the first element inside of the `<body>` tag, which would make it the first element that a user would 'select' when hitting tab.
+- Not shown, but important - It is best practice to 'hide' the skip link from sighted users, but 'show' it to users of assistive technology. This can be achieved with CSS.
+- The skip link should include descriptive text as to what it will do when clicked.
 
 To 'hide' the link, use some CSS like this (feel free to change class names or other attributes as suitable for your project):
 
