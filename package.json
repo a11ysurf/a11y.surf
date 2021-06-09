@@ -6,8 +6,8 @@
   "author": "Ben Myers <ben@benmyers.dev>",
   "license": "MIT",
   "scripts": {
-	"build": "eleventy",
-	"dev": "eleventy --serve"
+    "build": "eleventy",
+    "dev": "eleventy --serve"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.12.1"
